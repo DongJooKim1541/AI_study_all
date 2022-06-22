@@ -1,2 +1,2 @@
-# AI_paper_study
-AI papers study
+# AI_study_all
+AI study with papers and codes
