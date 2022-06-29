@@ -27,6 +27,8 @@ https://github.com/DongJooKim1541/Pix2Pix
 
 https://github.com/DongJooKim1541/CAPTCHA-classification_active_learning
 
+https://github.com/DongJooKim1541/Learning_loss_for_active_learning-add_experiments
+
 ## Etc
 
 https://github.com/DongJooKim1541/CAPTCHA-classification
